@@ -1,5 +1,5 @@
 # Snake-Game
-Jogo da cobrinha em HTML e JavaScript
+Jogo da cobrinha em HTML, CSS e JavaScript
 
 Se existe uma coisa que faz parte da vida de todo mundo são os games. Em vários formatos já apresentados, os clássicos nunca deixam de ser nossos preferidos. Tentando dar nova vida ao clássico jogo da cobrinha, apresento aqui o meu projeto. 
 Como as versões mais antigas, o seu objetivo é pegar o quadradinho que estará em evidência pela cor (você saberá imediatamente). Agora é só usar as teclas cursores do seu teclado (as setinhas) e se desafiar tentando criar a maior cobrinha possível!
